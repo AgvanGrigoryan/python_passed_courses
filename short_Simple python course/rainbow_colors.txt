@@ -1,0 +1,9 @@
+gold
+red
+orange
+yellow
+green
+blue
+indige
+violet
+SeaGreenBLue
